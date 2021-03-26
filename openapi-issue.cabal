@@ -27,7 +27,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      TestApi
   other-modules:
       Paths_openapi_issue
   hs-source-dirs:

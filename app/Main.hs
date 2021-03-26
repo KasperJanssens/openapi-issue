@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import TestApi
 
-main :: IO ()
-main = someFunc
+main :: IO()
+main = return ()
